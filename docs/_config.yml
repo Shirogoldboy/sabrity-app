@@ -1,0 +1,8 @@
+title: Sabrity
+description: Estude qualquer matéria com IA. Envie um PDF, DOCX, imagem ou link de aula e receba resumo, mapa mental, flashcards e questões -- grátis, com banco oficial de questões do ENEM.
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
